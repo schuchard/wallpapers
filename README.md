@@ -1,3 +1,3 @@
 # wallpapers
 
-![all mobile wallpapers](./mobile-web-framework/all-mobile.jpg)
+![all mobile wallpapers](./mobile-web/all-mobile.jpg)
